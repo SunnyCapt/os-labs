@@ -1,2 +1,2 @@
 #!/bin/bash
-ps -eo pid,vsz,rss,comm | grep lab1 
+ps -eo pid,vsz,rss,comm | grep main 
